@@ -1,11 +1,4 @@
 ﻿
-namespace Triangle
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-
 
             // Declare variables and then initialize to zero.
             int num1 = 0; int num2 = 0; int num3 = 0; int num4 = 0; int num5 = 0; int num6 = 0; double ab = 0; double db1 = 0; double db2 = 0;
@@ -165,6 +158,4 @@ namespace Triangle
                 Console.WriteLine(n);
                 n = n + 2;
             }
-        }
-    }
-}
+    
